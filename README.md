@@ -35,7 +35,7 @@ Install and activate the theme.
 https://github.com/papa-boynton/System-Theme/releases/latest
 
 ## Credits
-Written by [Mike Boynton](https://github.com/papa-boynton).
+Written by [TheyCallMePapa](https://github.com/papa-boynton).
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
