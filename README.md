@@ -2,7 +2,7 @@
   <br>
   <!--a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a-->
   <br>
-  System-Theme - Mike Boynton
+  System
   <br>
 </h1>
 
