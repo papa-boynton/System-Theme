@@ -30,7 +30,7 @@
 ![screenshot](Images/Screenshot.png)
 
 ## Key Features
-System theme for Droptop Four.
+Follows the color scheme of your Windows settings.
 
 ## How to use
 Install and activate the theme.
