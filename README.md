@@ -40,4 +40,4 @@ Written by [TheyCallMePapa](https://github.com/papa-boynton).
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
 
-![Visitor Count](https://profile-counter.glitch.me/{papa-boynton}/count.svg)
+[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/520295942/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/520295942/week.md)
