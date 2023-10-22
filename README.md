@@ -39,3 +39,5 @@ Written by [TheyCallMePapa](https://github.com/papa-boynton).
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
+
+![Visitor Count](https://profile-counter.glitch.me/{papa-boynton}/count.svg)
